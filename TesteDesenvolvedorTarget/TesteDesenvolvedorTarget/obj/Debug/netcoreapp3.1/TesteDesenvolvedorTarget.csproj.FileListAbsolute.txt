@@ -1,0 +1,16 @@
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.exe
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.deps.json
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.runtimeconfig.json
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.runtimeconfig.dev.json
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.dll
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.pdb
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.csproj.AssemblyReference.cache
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.AssemblyInfoInputs.cache
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.AssemblyInfo.cs
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.csproj.CoreCompileInputs.cache
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.dll
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.pdb
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.genruntimeconfig.cache
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Iara Camargos\Documents\TesteTarget\TesteDesenvolvedorTarget\TesteDesenvolvedorTarget\obj\Debug\netcoreapp3.1\TesteDesenvolvedorTarget.csproj.CopyComplete
